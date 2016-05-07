@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:drawable="@mipmap/dragon4"
+    android:duration="100"/>
+    <item android:drawable="@mipmap/dragon5"
+    android:duration="100"/>
+    <item android:drawable="@mipmap/dragon6"
+    android:duration="100"/>
+    <item android:drawable="@mipmap/dragon7"
+    android:duration="100"/>
+
+</animation-list>
